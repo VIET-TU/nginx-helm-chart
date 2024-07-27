@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mygninx:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2024-07-27T16:07:09.603715251Z"
+    description: A Helm chart for Kubernetes
+    digest: 6dc6382f200e53618160c84c0fc759c1fa85b81cf0dafe60772fe1605f2e3d80
+    name: mygninx
+    type: application
+    urls:
+    - releases/mygninx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-27T16:07:09.603433077Z"
